@@ -20,8 +20,8 @@
     "prefer-stable": true,
     "require": {
         "php" : "~7.1",
-        "getpop/site": "^1.0@dev",
-        "getpop/application-wp": "^1.0@dev"
+        "getpop/site": "~0.1",
+        "getpop/application-wp": "~0.1"
     },
     "require-dev": {
         "phpunit/phpunit" : ">=7.0",
